@@ -1,0 +1,2 @@
+# RizkyNew
+New Script
