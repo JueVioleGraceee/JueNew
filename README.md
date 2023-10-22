@@ -1,2 +1,2 @@
-# RizkyNew
+# JueNew
 New Script
